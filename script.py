@@ -1,2 +1,2 @@
 print('Hello world')
-print('Yeah, not very original')
+print('Yeah, not original')
